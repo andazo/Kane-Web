@@ -1,0 +1,145 @@
+.profile-h1 {
+    color: #6f82a8;
+    margin-left: 12%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.profile-h2 {
+    color: #D26960;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.documenth1 {
+    color: #6f82a8;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.documentSubh1 {
+    color: #6f82a8;
+}
+
+.documentp {
+    color: #000000;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    padding: 1px;
+    font-size: 20px;
+}
+
+.textBox{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding: 1px;
+    width: 50%;
+}
+
+.main-container {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    border-radius: 2%;
+}
+
+.profile-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+.carousel-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+.profile-h4 {
+    color: #D26960;
+}
+
+.title-container {
+    background-color: #6f82a8;
+    margin-bottom: 2%;
+    border-radius: 15px;
+}
+
+.stateStyle {
+    width: 35%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: none;
+    border-radius: 10px;
+    background-color: #879cc7;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+}
+
+.imageContainer {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.logoPaper{
+    height: 240px;
+    width: auto;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.logoCar{
+    height: 240px;
+    width: auto;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.logoCedula{
+    height: 240px;
+    width: auto;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.buttons {
+    width: 450px;
+    margin: 0 auto;
+    padding: 7%;
+}
+  
+.action_btn {
+    display: inline-block;
+    width: calc(50% - 4px);
+    margin: 2px 2px;
+}
+
+.comment-h4 {
+    color: #D26960;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.commentBoxContainer {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+.buttonsAccount {
+    width: 450px;
+}
+.profile-photo {
+    width: 200px;
+    height: 200px;
+}

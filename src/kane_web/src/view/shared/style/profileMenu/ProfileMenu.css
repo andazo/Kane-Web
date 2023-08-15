@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+}
+
+.profile-menu-a {
+  color: #8a9ab9;
+}
+
+.profile-menu-a:link {
+  text-decoration: none;
+}
+
+.profile-menu-a:visited {
+  text-decoration: none;
+}
+
+.profile-menu-a:hover {
+  color: #6F82A8;
+  text-decoration: none;
+}
+
+.profile-menu-a:active {
+  text-decoration: none;
+}
+
+.text-style{
+  text-decoration: none;
+  color: #8a9ab9;
+}
+
+hr{
+  color: #8a9ab9;
+}

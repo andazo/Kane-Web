@@ -1,0 +1,37 @@
+.dropdown-menu i {
+  color: #6f82a8;
+}
+
+.dropdown-menu-custom {
+  background-color: #d9d9d9;
+  width: 300px;
+}
+
+.dropdown-menu-absolute-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  background-color: #d9d9d9;
+}
+
+.no-word-break {
+  word-wrap: normal;
+}
+
+.notification-alert {
+  position: absolute;
+  display: flex;
+  user-select: none;
+  min-width: 15px;
+  top: -4px;
+  right: -22%;
+  background-color: red;
+  color: white;
+  border-radius: 50px;
+  padding: 5px 4px;
+  font-size: 12px;
+  line-height: 6px;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,20 @@
+
+.text-style {
+  color: #6f82a8;
+}
+
+.button {
+  background-color: #cdd7f2;
+  height: 30px;
+  margin-left: 2%;
+  color: #6f82a8;
+  border: none;
+  border-radius: 5px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button:hover{
+  background-color: #415375;
+  color: #cdd7f2;
+}

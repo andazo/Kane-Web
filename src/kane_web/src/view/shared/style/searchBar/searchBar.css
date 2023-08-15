@@ -1,0 +1,40 @@
+.searchBox {
+    background-color:transparent;
+    border: none;
+    height: 30px;
+    padding-left: 5px;
+    vertical-align: top;
+}
+
+.searchBox:focus {
+    outline: transparent;
+}
+
+.searchBox:focus::placeholder {
+    color: transparent;
+    transition: all 0.3s ease;
+}
+
+.searchBox::placeholder {
+    transition: all 0.3s ease;
+}
+
+.iconStyle {
+    color: #8a9ab9;
+    transition: all 0.3s ease;
+    padding-right: 5px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+.divStyle1 {
+    background-color:#eeeeee;
+    display: inline-block;
+    border: none;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+.divStyle1:focus-within {
+    outline: 2px solid #415375;
+}

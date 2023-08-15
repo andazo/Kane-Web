@@ -1,0 +1,8 @@
+
+.pagination-link {
+    color: black;
+}
+
+.pagination-link:hover {
+    background-color: #cdd7f2;
+}
